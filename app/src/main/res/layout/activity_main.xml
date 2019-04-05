@@ -63,7 +63,7 @@
            <Button
                android:layout_width="wrap_content"
                android:layout_height="wrap_content"
-               android:text=" বিশ্ববিদ্যালয় সিন্ডিকেট"
+               android:text="সিন্ডিকেট"
                android:layout_gravity="center"
                android:onClick="sinidacte"
                />
