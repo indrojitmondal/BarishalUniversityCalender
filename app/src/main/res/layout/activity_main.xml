@@ -1,0 +1,260 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:orientation="vertical"
+
+    tools:context=".MainActivity">
+    <!-- vertical ScrollView to make all the items or views scrollable -->
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scrollbars="none">
+        <!-- LinearLayout Inside ScrollView -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:weightSum="3"
+                android:background="@color/colorPink"
+                >
+                <ImageView
+                android:layout_weight="1"
+                android:layout_width="wrap_content"
+                android:layout_height="0in"
+                android:src="@drawable/banercover"
+                />
+
+                <ImageView
+                    android:layout_weight="2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="0in"
+                    android:src="@drawable/front"
+                    />
+
+            </LinearLayout>
+<!--
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:weightSum="3"
+                >
+
+
+                <ImageButton
+                    android:layout_weight="3"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+
+                    android:src="@drawable/t"
+                    />
+
+
+            </LinearLayout>
+
+            -->
+           <Button
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:text=" বিশ্ববিদ্যালয় সিন্ডিকেট"
+               android:layout_gravity="center"
+               android:onClick="sinidacte"
+               />
+
+
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:weightSum="3"
+                >
+
+
+                <ImageButton
+                    android:id="@+id/july"
+                    android:layout_weight="1"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/july"
+                    />
+                <ImageButton
+                    android:id="@+id/aug"
+                    android:layout_weight="1"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+
+                    android:src="@drawable/august"
+                    />
+
+                <ImageButton
+                    android:id="@+id/sep"
+                    android:layout_weight="1"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/september"
+                    />
+
+
+
+
+
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:weightSum="3"
+                >
+
+
+                <ImageButton
+                    android:id="@+id/oct"
+                    android:layout_weight="1"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/october"
+                    />
+
+
+                <ImageButton
+                    android:id="@+id/nov"
+                    android:layout_weight="1"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+
+                    android:src="@drawable/november"
+                    />
+                <ImageButton
+                    android:id="@+id/dec"
+                    android:layout_weight="1"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+
+                    android:src="@drawable/december"
+                    />
+
+
+
+
+
+            </LinearLayout>
+
+
+
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:weightSum="3"
+                >
+
+                <ImageButton
+
+                    android:id="@+id/jan"
+                    android:layout_weight="1"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/january"
+                    />
+                <ImageButton
+                    android:id="@+id/february"
+                    android:layout_weight="1"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+
+                    android:src="@drawable/february"
+                    />
+
+                <ImageButton
+                    android:id="@+id/mar"
+                    android:layout_weight="1"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+
+                    android:src="@drawable/march"
+                    />
+
+
+
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:weightSum="3"
+                >
+
+
+                <ImageButton
+                    android:id="@+id/apr"
+                    android:layout_weight="1"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+
+                    android:src="@drawable/april"
+                    />
+                <ImageButton
+                    android:id="@+id/may"
+                    android:layout_weight="1"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+
+                    android:src="@drawable/may"
+                    />
+                <ImageButton
+                    android:id="@+id/jun"
+                    android:layout_weight="1"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+
+                    android:src="@drawable/june"
+                    />
+
+            </LinearLayout>
+
+
+
+            <Button
+                android:id="@+id/ajkertarikh"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/today"
+                android:layout_gravity="center"
+                />
+
+           <Button
+           android:id="@+id/sutirtalika"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:text="@string/suti"
+           android:layout_gravity="center"
+           />
+
+            <!--
+            <Button
+                android:id="@+id/exit"
+                android:layout_width="70dp"
+                android:layout_height="40dp"
+                android:text="@string/exit"
+                android:textAllCaps="false"
+                android:layout_gravity="center"
+                android:background="@color/colorRed"
+                />
+                -->
+
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

@@ -1,0 +1,667 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#CCCCCC"
+    android:orientation="vertical"
+
+    tools:context=".VarsitySendicate">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scrollbars="none">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+
+                android:weightSum="3"
+                >
+             <ImageView
+                 android:layout_weight="2"
+                 android:layout_width="wrap_content"
+                 android:layout_height="0dp"
+                 android:scaleType="fitXY"
+                 android:src="@drawable/newbaner" />
+                <TextView
+                    android:layout_weight="1"
+                    android:layout_width="match_parent"
+                    android:gravity="center"
+                    android:layout_height="0dp"
+                    android:text="@string/sendicate"
+                    android:textStyle="bold"
+                    android:textSize="20dp"
+                    android:background="#2196F3"
+                    android:textColor="@color/colorGreen"
+
+                    />
+             </LinearLayout>
+
+
+
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:weightSum="3.5"
+
+                >
+                <TextView
+                    android:layout_weight=".5"
+                    android:layout_width="0dp"
+                    android:layout_height="70dp"
+
+                    android:text="@string/sendicateno1"
+
+                    />
+                <TextView
+                    android:layout_weight="2"
+                    android:layout_width="0dp"
+                    android:layout_height="70dp"
+
+                    android:text="@string/sendicateno1name"
+
+                    />
+                <TextView
+                    android:layout_weight="1"
+                    android:layout_width="0dp"
+                    android:layout_height="70dp"
+                    android:text="@string/sendicateno1title"
+
+
+                    />
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:weightSum="3.5"
+
+                >
+                <TextView
+                    android:layout_weight=".5"
+                    android:layout_width="0dp"
+                    android:layout_height="70dp"
+
+                    android:text="@string/sendicateno2"
+
+                    />
+                <TextView
+                    android:layout_weight="2"
+                    android:layout_width="0dp"
+                    android:layout_height="70dp"
+
+                    android:text="@string/sendicateno2name"
+
+                    />
+                <TextView
+                    android:layout_weight="1"
+                    android:layout_width="0dp"
+                    android:layout_height="70dp"
+                    android:text="@string/sendicateno2title"
+
+
+                    />
+            </LinearLayout>
+
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:weightSum="3.5"
+
+                >
+                <TextView
+                    android:layout_weight=".5"
+                    android:layout_width="0dp"
+                    android:layout_height="70dp"
+
+                    android:text="@string/sendicateno3"
+
+                    />
+                <TextView
+                    android:layout_weight="2"
+                    android:layout_width="0dp"
+                    android:layout_height="70dp"
+
+                    android:text="@string/sendicateno3name"
+
+                    />
+                <TextView
+                    android:layout_weight="1"
+                    android:layout_width="0dp"
+                    android:layout_height="70dp"
+                    android:text="@string/sendicateno3title"
+
+
+                    />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:weightSum="3.5"
+
+                >
+                <TextView
+                    android:layout_weight=".5"
+                    android:layout_width="0dp"
+                    android:layout_height="70dp"
+
+                    android:text="@string/sendicateno4"
+
+                    />
+                <TextView
+                    android:layout_weight="2"
+                    android:layout_width="0dp"
+                    android:layout_height="70dp"
+
+                    android:text="@string/sendicateno4name"
+
+                    />
+                <TextView
+                    android:layout_weight="1"
+                    android:layout_width="0dp"
+                    android:layout_height="70dp"
+                    android:text="@string/sendicateno4title"
+
+
+                    />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:weightSum="3.5"
+
+                >
+                <TextView
+                    android:layout_weight=".5"
+                    android:layout_width="0dp"
+                    android:layout_height="90dp"
+
+                    android:text="@string/sendicateno5"
+
+                    />
+                <TextView
+                    android:layout_weight="2"
+                    android:layout_width="0dp"
+                    android:layout_height="90dp"
+
+                    android:text="@string/sendicateno5name"
+
+                    />
+                <TextView
+                    android:layout_weight="1"
+                    android:layout_width="0dp"
+                    android:layout_height="90dp"
+                    android:text="@string/sendicateno5title"
+
+
+                    />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:weightSum="3.5"
+
+                >
+                <TextView
+                    android:layout_weight=".5"
+                    android:layout_width="0dp"
+                    android:layout_height="70dp"
+
+                    android:text="@string/sendicateno6"
+
+                    />
+                <TextView
+                    android:layout_weight="2"
+                    android:layout_width="0dp"
+                    android:layout_height="70dp"
+
+                    android:text="@string/sendicateno6name"
+
+                    />
+                <TextView
+                    android:layout_weight="1"
+                    android:layout_width="0dp"
+                    android:layout_height="70dp"
+                    android:text="@string/sendicateno6title"
+
+
+                    />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:weightSum="3.5"
+
+                >
+                <TextView
+                    android:layout_weight=".5"
+                    android:layout_width="0dp"
+                    android:layout_height="90dp"
+
+                    android:text="@string/sendicateno7"
+
+                    />
+                <TextView
+                    android:layout_weight="2"
+                    android:layout_width="0dp"
+                    android:layout_height="90dp"
+
+                    android:text="@string/sendicateno7name"
+
+                    />
+                <TextView
+                    android:layout_weight="1"
+                    android:layout_width="0dp"
+                    android:layout_height="90dp"
+                    android:text="@string/sendicateno7title"
+
+
+                    />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:weightSum="3.5"
+
+                >
+                <TextView
+                    android:layout_weight=".5"
+                    android:layout_width="0dp"
+                    android:layout_height="70dp"
+
+                    android:text="@string/sendicateno8"
+
+                    />
+                <TextView
+                    android:layout_weight="2"
+                    android:layout_width="0dp"
+                    android:layout_height="70dp"
+
+                    android:text="@string/sendicateno8name"
+
+                    />
+                <TextView
+                    android:layout_weight="1"
+                    android:layout_width="0dp"
+                    android:layout_height="70dp"
+                    android:text="@string/sendicateno8title"
+
+
+                    />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:weightSum="3.5"
+
+                >
+                <TextView
+                    android:layout_weight=".5"
+                    android:layout_width="0dp"
+                    android:layout_height="70dp"
+
+                    android:text="@string/sendicateno9"
+
+                    />
+                <TextView
+                    android:layout_weight="2"
+                    android:layout_width="0dp"
+                    android:layout_height="70dp"
+
+                    android:text="@string/sendicateno9name"
+
+                    />
+                <TextView
+                    android:layout_weight="1"
+                    android:layout_width="0dp"
+                    android:layout_height="70dp"
+                    android:text="@string/sendicateno9title"
+
+
+                    />
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:weightSum="3.5"
+
+                >
+                <TextView
+                    android:layout_weight=".5"
+                    android:layout_width="0dp"
+                    android:layout_height="90dp"
+
+                    android:text="@string/sendicaten10"
+
+                    />
+                <TextView
+                    android:layout_weight="2"
+                    android:layout_width="0dp"
+                    android:layout_height="90dp"
+
+                    android:text="@string/sendicaten10name"
+
+                    />
+                <TextView
+                    android:layout_weight="1"
+                    android:layout_width="0dp"
+                    android:layout_height="90dp"
+                    android:text="@string/sendicaten10title"
+
+
+                    />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:weightSum="3.5"
+
+                >
+                <TextView
+                    android:layout_weight=".5"
+                    android:layout_width="0dp"
+                    android:layout_height="70dp"
+
+                    android:text="@string/sendicaten11"
+
+                    />
+                <TextView
+                    android:layout_weight="2"
+                    android:layout_width="0dp"
+                    android:layout_height="70dp"
+
+                    android:text="@string/sendicaten11name"
+
+                    />
+                <TextView
+                    android:layout_weight="1"
+                    android:layout_width="0dp"
+                    android:layout_height="70dp"
+                    android:text="@string/sendicaten11title"
+
+
+                    />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:weightSum="3.5"
+
+                >
+                <TextView
+                    android:layout_weight=".5"
+                    android:layout_width="0dp"
+                    android:layout_height="70dp"
+
+                    android:text="@string/sendicaten12"
+
+                    />
+                <TextView
+                    android:layout_weight="2"
+                    android:layout_width="0dp"
+                    android:layout_height="70dp"
+
+                    android:text="@string/sendicaten12name"
+
+                    />
+                <TextView
+                    android:layout_weight="1"
+                    android:layout_width="0dp"
+                    android:layout_height="70dp"
+                    android:text="@string/sendicaten12title"
+
+
+                    />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:weightSum="3.5"
+
+                >
+                <TextView
+                    android:layout_weight=".5"
+                    android:layout_width="0dp"
+                    android:layout_height="70dp"
+
+                    android:text="@string/sendicaten13"
+
+                    />
+                <TextView
+                    android:layout_weight="2"
+                    android:layout_width="0dp"
+                    android:layout_height="70dp"
+
+                    android:text="@string/sendicaten13name"
+
+                    />
+                <TextView
+                    android:layout_weight="1"
+                    android:layout_width="0dp"
+                    android:layout_height="70dp"
+                    android:text="@string/sendicaten13title"
+
+
+                    />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:weightSum="3.5"
+
+                >
+                <TextView
+                    android:layout_weight=".5"
+                    android:layout_width="0dp"
+                    android:layout_height="70dp"
+
+                    android:text="@string/sendicaten14"
+
+                    />
+                <TextView
+                    android:layout_weight="2"
+                    android:layout_width="0dp"
+                    android:layout_height="70dp"
+
+                    android:text="@string/sendicaten14name"
+
+                    />
+                <TextView
+                    android:layout_weight="1"
+                    android:layout_width="0dp"
+                    android:layout_height="70dp"
+                    android:text="@string/sendicaten14title"
+
+
+                    />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:weightSum="3.5"
+
+                >
+                <TextView
+                    android:layout_weight=".5"
+                    android:layout_width="0dp"
+                    android:layout_height="70dp"
+
+                    android:text="@string/sendicaten15"
+
+                    />
+                <TextView
+                    android:layout_weight="2"
+                    android:layout_width="0dp"
+                    android:layout_height="70dp"
+
+                    android:text="@string/sendicaten15name"
+
+                    />
+                <TextView
+                    android:layout_weight="1"
+                    android:layout_width="0dp"
+                    android:layout_height="70dp"
+                    android:text="@string/sendicaten15title"
+
+
+                    />
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:weightSum="3.5"
+
+                >
+                <TextView
+                    android:layout_weight=".5"
+                    android:layout_width="0dp"
+                    android:layout_height="90dp"
+
+                    android:text="@string/sendicaten16"
+
+                    />
+                <TextView
+                    android:layout_weight="2"
+                    android:layout_width="0dp"
+                    android:layout_height="90dp"
+
+                    android:text="@string/sendicaten16name"
+
+                    />
+                <TextView
+                    android:layout_weight="1"
+                    android:layout_width="0dp"
+                    android:layout_height="90dp"
+                    android:text="@string/sendicaten16title"
+
+
+                    />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:weightSum="3.5"
+
+                >
+                <TextView
+                    android:layout_weight=".5"
+                    android:layout_width="0dp"
+                    android:layout_height="70dp"
+
+                    android:text="@string/sendicaten17"
+
+                    />
+                <TextView
+                    android:layout_weight="2"
+                    android:layout_width="0dp"
+                    android:layout_height="70dp"
+
+                    android:text="@string/sendicaten17name"
+
+                    />
+                <TextView
+                    android:layout_weight="1"
+                    android:layout_width="0dp"
+                    android:layout_height="70dp"
+                    android:text="@string/sendicaten17title"
+
+
+                    />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:weightSum="3.5"
+
+                >
+                <TextView
+                    android:layout_weight=".5"
+                    android:layout_width="0dp"
+                    android:layout_height="70dp"
+
+                    android:text="@string/sendicaten18"
+
+                    />
+                <TextView
+                    android:layout_weight="2"
+                    android:layout_width="0dp"
+                    android:layout_height="70dp"
+
+                    android:text="@string/sendicaten18name"
+
+                    />
+                <TextView
+                    android:layout_weight="1"
+                    android:layout_width="0dp"
+                    android:layout_height="70dp"
+                    android:text="@string/sendicaten18title"
+
+
+                    />
+            </LinearLayout>
+
+
+
+
+
+
+
+
+
+
+
+
+        </LinearLayout>
+
+
+
+    </ScrollView>
+
+</LinearLayout>

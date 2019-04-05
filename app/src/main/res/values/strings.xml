@@ -1,0 +1,578 @@
+<resources>
+    <string name="app_name">BU Calendar</string>
+    <string name="july1">1<sub>১৭</sub></string>
+    <string name="july2">2<sub>১৮</sub></string>
+    <string name="july3">3<sub>১৯</sub></string>
+    <string name="july4">4<sub>২০</sub></string>
+    <string name="july5">5<sub>২১</sub></string>
+    <string name="july6">6<sub>২২</sub></string>
+    <string name="july7">7<sub>২৩</sub></string>
+    <string name="july8">8<sub>২৪</sub></string>
+    <string name="july9">9<sub>২৫</sub></string>
+    <string name="july10">10<sub>২৬</sub></string>
+    <string name="july11">11<sub>২৭</sub></string>
+    <string name="july12">12<sub>২৮</sub></string>
+    <string name="july13">13<sub>২৯</sub></string>
+    <string name="july14">14<sub>৩০</sub></string>
+    <string name="july15">15<sub>৩১</sub></string>
+    <string name="july16">16<sub>১</sub></string>
+    <string name="july17">17<sub>২</sub></string>
+    <string name="july18">18<sub>৩</sub></string>
+    <string name="july19">19<sub>৪</sub></string>
+    <string name="july20">20<sub>৫</sub></string>
+    <string name="july21">21<sub>৬</sub></string>
+    <string name="july22">22<sub>৭</sub></string>
+    <string name="july23">23<sub>৮</sub></string>
+    <string name="july24">24<sub>৯</sub></string>
+    <string name="july25">25<sub>১০</sub></string>
+    <string name="july26">26<sub>১১</sub></string>
+    <string name="july27">27<sub>১২</sub></string>
+    <string name="july28">28<sub>১৩</sub></string>
+    <string name="july29">29<sub>১৪</sub></string>
+    <string name="july30">30<sub>১৫</sub></string>
+    <string name="july31">31<sub>১৬</sub></string>
+
+
+    <string name="aug1">1<sub>১৭</sub></string>
+    <string name="aug2">2<sub>১৮</sub></string>
+    <string name="aug3">3<sub>১৯</sub></string>
+    <string name="aug4">4<sub>২০</sub></string>
+    <string name="aug5">5<sub>২১</sub></string>
+    <string name="aug6">6<sub>২২</sub></string>
+    <string name="aug7">7<sub>২৩</sub></string>
+    <string name="aug8">8<sub>২৪</sub></string>
+    <string name="aug9">9<sub>২৫</sub></string>
+    <string name="aug10">10<sub>২৬</sub></string>
+    <string name="aug11">11<sub>২৭</sub></string>
+    <string name="aug12">12<sub>২৮</sub></string>
+    <string name="aug13">13<sub>২৯</sub></string>
+    <string name="aug14">14<sub>৩০</sub></string>
+    <string name="aug15">15<sub>৩১</sub></string>
+    <string name="aug16">16<sub>১</sub></string>
+    <string name="aug17">17<sub>২</sub></string>
+    <string name="aug18">18<sub>৩</sub></string>
+    <string name="aug19">19<sub>৪</sub></string>
+    <string name="aug20">20<sub>৫</sub></string>
+    <string name="aug21">21<sub>৬</sub></string>
+    <string name="aug22">22<sub>৭</sub></string>
+    <string name="aug23">23<sub>৮</sub></string>
+    <string name="aug24">24<sub>৯</sub></string>
+    <string name="aug25">25<sub>১০</sub></string>
+    <string name="aug26">26<sub>১১</sub></string>
+    <string name="aug27">27<sub>১২</sub></string>
+    <string name="aug28">28<sub>১৩</sub></string>
+    <string name="aug29">29<sub>১৪</sub></string>
+    <string name="aug30">30<sub>১৫</sub></string>
+    <string name="aug31">31<sub>১৬</sub></string>
+
+
+    <string name="sep1">1<sub>১৭</sub></string>
+    <string name="sep2">2<sub>১৮</sub></string>
+    <string name="sep3">3<sub>১৯</sub></string>
+    <string name="sep4">4<sub>২০</sub></string>
+    <string name="sep5">5<sub>২১</sub></string>
+    <string name="sep6">6<sub>২২</sub></string>
+    <string name="sep7">7<sub>২৩</sub></string>
+    <string name="sep8">8<sub>২৪</sub></string>
+    <string name="sep9">9<sub>২৫</sub></string>
+    <string name="sep10">10<sub>২৬</sub></string>
+    <string name="sep11">11<sub>২৭</sub></string>
+    <string name="sep12">12<sub>২৮</sub></string>
+    <string name="sep13">13<sub>২৯</sub></string>
+    <string name="sep14">14<sub>৩০</sub></string>
+    <string name="sep15">15<sub>৩১</sub></string>
+    <string name="sep16">16<sub>১</sub></string>
+    <string name="sep17">17<sub>২</sub></string>
+    <string name="sep18">18<sub>৩</sub></string>
+    <string name="sep19">19<sub>৪</sub></string>
+    <string name="sep20">20<sub>৫</sub></string>
+    <string name="sep21">21<sub>৬</sub></string>
+    <string name="sep22">22<sub>৭</sub></string>
+    <string name="sep23">23<sub>৮</sub></string>
+    <string name="sep24">24<sub>৯</sub></string>
+    <string name="sep25">25<sub>১০</sub></string>
+    <string name="sep26">26<sub>১১</sub></string>
+    <string name="sep27">27<sub>১২</sub></string>
+    <string name="sep28">28<sub>১৩</sub></string>
+    <string name="sep29">29<sub>১৪</sub></string>
+    <string name="sep30">30<sub>১৫</sub></string>
+
+
+    <string name="oct1">1<sub>১৬</sub></string>
+    <string name="oct2">2<sub>১৭</sub></string>
+    <string name="oct3">3<sub>১৮</sub></string>
+    <string name="oct4">4<sub>১৯</sub></string>
+    <string name="oct5">5<sub>২০</sub></string>
+    <string name="oct6">6<sub>২১</sub></string>
+    <string name="oct7">7<sub>২২</sub></string>
+    <string name="oct8">8<sub>২৩</sub></string>
+    <string name="oct9">9<sub>২৪</sub></string>
+    <string name="oct10">10<sub>২৫</sub></string>
+    <string name="oct11">11<sub>২৬</sub></string>
+    <string name="oct12">12<sub>২৭</sub></string>
+    <string name="oct13">13<sub>২৮</sub></string>
+    <string name="oct14">14<sub>২৯</sub></string>
+    <string name="oct15">15<sub>৩০</sub></string>
+    <string name="oct16">16<sub>১</sub></string>
+    <string name="oct17">17<sub>২</sub></string>
+    <string name="oct18">18<sub>৩</sub></string>
+    <string name="oct19">19<sub>৪</sub></string>
+    <string name="oct20">20<sub>৫</sub></string>
+    <string name="oct21">21<sub>৬</sub></string>
+    <string name="oct22">22<sub>৭</sub></string>
+    <string name="oct23">23<sub>৮</sub></string>
+    <string name="oct24">24<sub>৯</sub></string>
+    <string name="oct25">25<sub>১০</sub></string>
+    <string name="oct26">26<sub>১১</sub></string>
+    <string name="oct27">27<sub>১২</sub></string>
+    <string name="oct28">28<sub>১৩</sub></string>
+    <string name="oct29">29<sub>১৪</sub></string>
+    <string name="oct30">30<sub>১৫</sub></string>
+    <string name="oct31">31<sub>১৬</sub></string>
+
+
+    <string name="nov1">1<sub>১৭</sub></string>
+    <string name="nov2">2<sub>১৮</sub></string>
+    <string name="nov3">3<sub>১৯</sub></string>
+    <string name="nov4">4<sub>২০</sub></string>
+    <string name="nov5">5<sub>২১</sub></string>
+    <string name="nov6">6<sub>২২</sub></string>
+    <string name="nov7">7<sub>২৩</sub></string>
+    <string name="nov8">8<sub>২৪</sub></string>
+    <string name="nov9">9<sub>২৫</sub></string>
+    <string name="nov10">10<sub>২৬</sub></string>
+    <string name="nov11">11<sub>২৭</sub></string>
+    <string name="nov12">12<sub>২৮</sub></string>
+    <string name="nov13">13<sub>২৯</sub></string>
+    <string name="nov14">14<sub>৩০</sub></string>
+    <string name="nov15">15<sub>১</sub></string>
+    <string name="nov16">16<sub>২</sub></string>
+    <string name="nov17">17<sub>৩</sub></string>
+    <string name="nov18">18<sub>৪</sub></string>
+    <string name="nov19">19<sub>৫</sub></string>
+    <string name="nov20">20<sub>৬</sub></string>
+    <string name="nov21">21<sub>৭</sub></string>
+    <string name="nov22">22<sub>৮</sub></string>
+    <string name="nov23">23<sub>৯</sub></string>
+    <string name="nov24">24<sub>১০</sub></string>
+    <string name="nov25">25<sub>১১</sub></string>
+    <string name="nov26">26<sub>১২</sub></string>
+    <string name="nov27">27<sub>১৩</sub></string>
+    <string name="nov28">28<sub>১৪</sub></string>
+    <string name="nov29">29<sub>১৫</sub></string>
+    <string name="nov30">30<sub>১৬</sub></string>
+
+
+    <string name="dec1">1<sub>১৭</sub></string>
+    <string name="dec2">2<sub>১৮</sub></string>
+    <string name="dec3">3<sub>১৯</sub></string>
+    <string name="dec4">4<sub>২০</sub></string>
+    <string name="dec5">5<sub>২১</sub></string>
+    <string name="dec6">6<sub>২২</sub></string>
+    <string name="dec7">7<sub>২৩</sub></string>
+    <string name="dec8">8<sub>২৪</sub></string>
+    <string name="dec9">9<sub>২৫</sub></string>
+    <string name="dec10">10<sub>২৬</sub></string>
+    <string name="dec11">11<sub>২৭</sub></string>
+    <string name="dec12">12<sub>২৮</sub></string>
+    <string name="dec13">13<sub>২৯</sub></string>
+    <string name="dec14">14<sub>৩০</sub></string>
+    <string name="dec15">15<sub>১</sub></string>
+    <string name="dec16">16<sub>২</sub></string>
+    <string name="dec17">17<sub>৩</sub></string>
+    <string name="dec18">18<sub>৪</sub></string>
+    <string name="dec19">19<sub>৫</sub></string>
+    <string name="dec20">20<sub>৬</sub></string>
+    <string name="dec21">21<sub>৭</sub></string>
+    <string name="dec22">22<sub>৮</sub></string>
+    <string name="dec23">23<sub>৯</sub></string>
+    <string name="dec24">24<sub>১০</sub></string>
+    <string name="dec25">25<sub>১১</sub></string>
+    <string name="dec26">26<sub>১২</sub></string>
+    <string name="dec27">27<sub>১৩</sub></string>
+    <string name="dec28">28<sub>১৪</sub></string>
+    <string name="dec29">29<sub>১৫</sub></string>
+    <string name="dec30">30<sub>১৬</sub></string>
+    <string name="dec31">31<sub>১৭</sub></string>
+
+
+    <string name="jan1">1<sub>১৮</sub></string>
+    <string name="jan2">2<sub>১৯</sub></string>
+    <string name="jan3">3<sub>২০</sub></string>
+    <string name="jan4">4<sub>২১</sub></string>
+    <string name="jan5">5<sub>২২</sub></string>
+    <string name="jan6">6<sub>২৩</sub></string>
+    <string name="jan7">7<sub>২৪</sub></string>
+    <string name="jan8">8<sub>২৫</sub></string>
+    <string name="jan9">9<sub>২৬</sub></string>
+    <string name="jan10">10<sub>২৭</sub></string>
+    <string name="jan11">11<sub>২৮</sub></string>
+    <string name="jan12">12<sub>২৯</sub></string>
+    <string name="jan13">13<sub>৩০</sub></string>
+    <string name="jan14">14<sub>১</sub></string>
+    <string name="jan15">15<sub>২</sub></string>
+    <string name="jan16">16<sub>৩</sub></string>
+    <string name="jan17">17<sub>৪</sub></string>
+    <string name="jan18">18<sub>৫</sub></string>
+    <string name="jan19">19<sub>৬</sub></string>
+    <string name="jan20">20<sub>৭</sub></string>
+    <string name="jan21">21<sub>৮</sub></string>
+    <string name="jan22">22<sub>৯</sub></string>
+    <string name="jan23">23<sub>১০</sub></string>
+    <string name="jan24">24<sub>১১</sub></string>
+    <string name="jan25">25<sub>১২</sub></string>
+    <string name="jan26">26<sub>১৩</sub></string>
+    <string name="jan27">27<sub>১৪</sub></string>
+    <string name="jan28">28<sub>১৫</sub></string>
+    <string name="jan29">29<sub>১৬</sub></string>
+    <string name="jan30">30<sub>১৭</sub></string>
+    <string name="jan31">31<sub>১৮</sub></string>
+
+
+    <string name="feb1">1<sub>১৯</sub></string>
+    <string name="feb2">2<sub>২০</sub></string>
+    <string name="feb3">3<sub>২১</sub></string>
+    <string name="feb4">4<sub>২২</sub></string>
+    <string name="feb5">5<sub>২৩</sub></string>
+    <string name="feb6">6<sub>২৪</sub></string>
+    <string name="feb7">7<sub>২৫</sub></string>
+    <string name="feb8">8<sub>২৬</sub></string>
+    <string name="feb9">9<sub>২৭</sub></string>
+    <string name="feb10">10<sub>২৮</sub></string>
+    <string name="feb11">11<sub>২৯</sub></string>
+    <string name="feb12">12<sub>৩০</sub></string>
+    <string name="feb13">13<sub>১</sub></string>
+    <string name="feb14">14<sub>২</sub></string>
+    <string name="feb15">15<sub>৩</sub></string>
+    <string name="feb16">16<sub>৪</sub></string>
+    <string name="feb17">17<sub>৫</sub></string>
+    <string name="feb18">18<sub>৬</sub></string>
+    <string name="feb19">19<sub>৭</sub></string>
+    <string name="feb20">20<sub>৮</sub></string>
+    <string name="feb21">21<sub>৯</sub></string>
+    <string name="feb22">22<sub>১০</sub></string>
+    <string name="feb23">23<sub>১১</sub></string>
+    <string name="feb24">24<sub>১২</sub></string>
+    <string name="feb25">25<sub>১৩</sub></string>
+    <string name="feb26">26<sub>১৪</sub></string>
+    <string name="feb27">27<sub>১৫</sub></string>
+    <string name="feb28">28<sub>১৬</sub></string>
+
+
+    <string name="march1">1<sub>১৭</sub></string>
+    <string name="march2">2<sub>১৮</sub></string>
+    <string name="march3">3<sub>১৯</sub></string>
+    <string name="march4">4<sub>২০</sub></string>
+    <string name="march5">5<sub>২১</sub></string>
+    <string name="march6">6<sub>২২</sub></string>
+    <string name="march7">7<sub>২৩</sub></string>
+    <string name="march8">8<sub>২৪</sub></string>
+    <string name="march9">9<sub>২৫</sub></string>
+    <string name="march10">10<sub>২৬</sub></string>
+    <string name="march11">11<sub>২৭</sub></string>
+    <string name="march12">12<sub>২৮</sub></string>
+    <string name="march13">13<sub>২৯</sub></string>
+    <string name="march14">14<sub>৩০</sub></string>
+    <string name="march15">15<sub>১</sub></string>
+    <string name="march16">16<sub>২</sub></string>
+    <string name="march17">17<sub>৩</sub></string>
+    <string name="march18">18<sub>৪</sub></string>
+    <string name="march19">19<sub>৫</sub></string>
+    <string name="march20">20<sub>৬</sub></string>
+    <string name="march21">21<sub>৭</sub></string>
+    <string name="march22">22<sub>৮</sub></string>
+    <string name="march23">23<sub>৯</sub></string>
+    <string name="march24">24<sub>১০</sub></string>
+    <string name="march25">25<sub>১১</sub></string>
+    <string name="march26">26<sub>১২</sub></string>
+    <string name="march27">27<sub>১৩</sub></string>
+    <string name="march28">28<sub>১৪</sub></string>
+    <string name="march29">29<sub>১৫</sub></string>
+    <string name="march30">30<sub>১৬</sub></string>
+    <string name="march31">31<sub>১৭</sub></string>
+
+
+    <string name="april1">1<sub>১৮</sub></string>
+    <string name="april2">2<sub>১৯</sub></string>
+    <string name="april3">3<sub>২০</sub></string>
+    <string name="april4">4<sub>২১</sub></string>
+    <string name="april5">5<sub>২২</sub></string>
+    <string name="april6">6<sub>২৩</sub></string>
+    <string name="april7">7<sub>২৪</sub></string>
+    <string name="april8">8<sub>২৫</sub></string>
+    <string name="april9">9<sub>২৬</sub></string>
+    <string name="april10">10<sub>২৭</sub></string>
+    <string name="april11">11<sub>২৮</sub></string>
+    <string name="april12">12<sub>২৯</sub></string>
+    <string name="april13">13<sub>৩০</sub></string>
+    <string name="april14">14<sub>১</sub></string>
+    <string name="april15">15<sub>২</sub></string>
+    <string name="april16">16<sub>৩</sub></string>
+    <string name="april17">17<sub>৪</sub></string>
+    <string name="april18">18<sub>৫</sub></string>
+    <string name="april19">19<sub>৬</sub></string>
+    <string name="april20">20<sub>৭</sub></string>
+    <string name="april21">21<sub>৮</sub></string>
+    <string name="april22">22<sub>৯</sub></string>
+    <string name="april23">23<sub>১০</sub></string>
+    <string name="april24">24<sub>১১</sub></string>
+    <string name="april25">25<sub>১২</sub></string>
+    <string name="april26">26<sub>১৩</sub></string>
+    <string name="april27">27<sub>১৪</sub></string>
+    <string name="april28">28<sub>১৫</sub></string>
+    <string name="april29">29<sub>১৬</sub></string>
+    <string name="april30">30<sub>১৭</sub></string>
+
+
+    <string name="may1">1<sub>১৮</sub></string>
+    <string name="may2">2<sub>১৯</sub></string>
+    <string name="may3">3<sub>২০</sub></string>
+    <string name="may4">4<sub>২১</sub></string>
+    <string name="may5">5<sub>২২</sub></string>
+    <string name="may6">6<sub>২৩</sub></string>
+    <string name="may7">7<sub>২৪</sub></string>
+    <string name="may8">8<sub>২৫</sub></string>
+    <string name="may9">9<sub>২৬</sub></string>
+    <string name="may10">10<sub>২৭</sub></string>
+    <string name="may11">11<sub>২৮</sub></string>
+    <string name="may12">12<sub>২৯</sub></string>
+    <string name="may13">13<sub>৩০</sub></string>
+    <string name="may14">14<sub>৩১</sub></string>
+    <string name="may15">15<sub>১</sub></string>
+    <string name="may16">16<sub>২</sub></string>
+    <string name="may17">17<sub>৩</sub></string>
+    <string name="may18">18<sub>৪</sub></string>
+    <string name="may19">19<sub>৫</sub></string>
+    <string name="may20">20<sub>৬</sub></string>
+    <string name="may21">21<sub>৭</sub></string>
+    <string name="may22">22<sub>৮</sub></string>
+    <string name="may23">23<sub>৯</sub></string>
+    <string name="may24">24<sub>১০</sub></string>
+    <string name="may25">25<sub>১১</sub></string>
+    <string name="may26">26<sub>১২</sub></string>
+    <string name="may27">27<sub>১৩</sub></string>
+    <string name="may28">28<sub>১৪</sub></string>
+    <string name="may29">29<sub>১৫</sub></string>
+    <string name="may30">30<sub>১৬</sub></string>
+    <string name="may31">31<sub>১৭</sub></string>
+
+
+    <string name="jun1">1<sub>১৮</sub></string>
+    <string name="jun2">2<sub>১৯</sub></string>
+    <string name="jun3">3<sub>২০</sub></string>
+    <string name="jun4">4<sub>২১</sub></string>
+    <string name="jun5">5<sub>২২</sub></string>
+    <string name="jun6">6<sub>২৩</sub></string>
+    <string name="jun7">7<sub>২৪</sub></string>
+    <string name="jun8">8<sub>২৫</sub></string>
+    <string name="jun9">9<sub>২৬</sub></string>
+    <string name="jun10">10<sub>২৭</sub></string>
+    <string name="jun11">11<sub>২৮</sub></string>
+    <string name="jun12">12<sub>২৯</sub></string>
+    <string name="jun13">13<sub>৩০</sub></string>
+    <string name="jun14">14<sub>৩১</sub></string>
+    <string name="jun15">15<sub>১</sub></string>
+    <string name="jun16">16<sub>২</sub></string>
+    <string name="jun17">17<sub>৩</sub></string>
+    <string name="jun18">18<sub>৪</sub></string>
+    <string name="jun19">19<sub>৫</sub></string>
+    <string name="jun20">20<sub>৬</sub></string>
+    <string name="jun21">21<sub>৭</sub></string>
+    <string name="jun22">22<sub>৮</sub></string>
+    <string name="jun23">23<sub>৯</sub></string>
+    <string name="jun24">24<sub>১০</sub></string>
+    <string name="jun25">25<sub>১১</sub></string>
+    <string name="jun26">26<sub>১২</sub></string>
+    <string name="jun27">27<sub>১৩</sub></string>
+    <string name="jun28">28<sub>১৪</sub></string>
+    <string name="jun29">29<sub>১৫</sub></string>
+    <string name="jun30">30<sub>১৬</sub></string>
+
+
+    <string name="dialog_message">আজ ১৮ তারিখ </string>
+    <string name="closing_message"> </string>
+
+
+    <string name="dialog_title"></string>
+    <string name="bubutton">www.bu.ac.bd</string>
+    <string name="julytext">July 2018 / (আষাঢ়-শ্রাবণ) ১৪২৫  </string>
+    <string name="augtext">August 2018 / (শ্রাবণ-ভাদ্র) ১৪২৫  </string>
+    <string name="septext">September 2018 / (ভাদ্র-আশ্বিন) ১৪২৫  </string>
+    <string name="octtext">October 2018 / (আশ্বিন-কার্তিক) ১৪২৫  </string>
+    <string name="novtext">November 2018 / (কার্তিক-অঘ্রায়ণ) ১৪২৫  </string>
+    <string name="dectext">December 2018 / (অঘ্রায়ণ-পৌষ) ১৪২৫  </string>
+    <string name="januarytext">January 2019 /(পৌষ-মাঘ) ১৪২৫ </string>
+    <string name="febtext">February 2019 /(মাঘ-ফাল্গুন) ১৪২৫ </string>
+    <string name="marchtext">March 2019 /(ফাল্গুন-চৌত্র) ১৪২৫ </string>
+    <string name="apriltext">April 2019 /(চৌত্র-বৈশাখ) ১৪২৫-১৪২৬ </string>
+    <string name="maytext">May 2019 /(বৈশাখ-জৈষ্ঠ্য) ১৪২৬ </string>
+    <string name="juntext">June 2019 /(জৈষ্ঠ্য-আষাঢ়) ১৪২৬ </string>
+    <string name="januarynext">Next</string>
+    <string name="januarypre">Previous</string>
+    <string name="suti"> ২০১৮-১৯ শিক্ষাবর্ষের ছুটির তালিকা</string>
+    <string name="sutilist">এক তারকাচিহ্ন যুক্ত(*)পর্বগুলো চন্দ্রদয় সাপেক্ষ পরিবর্ত্নীয় । \n
+                       দুই তাকাচিহ্ন যুক্ত(**)পর্বগুলোর ছুটির তারিখ পরে জানানো হবে । \n</string>
+    <string name="today">আজকের তারিখ দেখুন </string>
+    <string name="ss"> লাল চিহ্নিত তারিখগুলো ক্লাস ও অফিস ছুটি । \n
+                       নীল চিহিন্ত তারিখগুলো ক্লাস ছুটি । \n
+                       সবুজ চিহ্নিত তারিখগুলোতে বিশ্ববিদ্যাল্য় খোলা থাকবে |
+
+    </string>
+
+    <string name="home">Home</string>
+    <string name="exit">Exit</string>
+    <string name="sendicate">বিশ্ববিদ্যালয় সিন্ডিকেট</string>
+
+    <string name="sendicateno1">০১ । </string>
+    <string name="sendicateno1name">প্রফেসর ড. এস এম  ইমামুল হক\n
+         ভাইস-চ্যান্সেলর\n
+         বরিশাল বিশ্ববিদ্যালয়, বরিশাল</string>
+    <string name="sendicateno1title">সভাপতি</string>
+
+
+    <string name="sendicateno2">০২ । </string>
+    <string name="sendicateno2name">
+         প্রো-ভাইস চ্যান্সেলর\n
+         বরিশাল বিশ্ববিদ্যালয়, বরিশাল</string>
+    <string name="sendicateno2title">শুণ্য</string>
+
+
+    <string name="sendicateno3">০৩ । </string>
+    <string name="sendicateno3name">
+         অধ্যাপক ড.এ কে এম মাহবুব হাসান\n
+         ট্রেজারার\n
+         বরিশাল বিশ্ববিদ্যালয়, বরিশাল </string>
+    <string name="sendicateno3title">সদস্য</string>
+
+
+    <string name="sendicateno4">০৪ । </string>
+    <string name="sendicateno4name">
+         জনাব আবদুল মালেক\n
+         সচিব, তথ্য মন্ত্রণালয়\n
+         বাংলাদেশ সচিবালয়, ঢাকা </string>
+    <string name="sendicateno4title">সদস্য</string>
+
+
+
+    <string name="sendicateno5">০৫ । </string>
+    <string name="sendicateno5name">
+         জনাব মোঃ আমিনুল ইসলাম খান\n
+         অতিরিক্ত সচিব, স্থানীয় সরকার বিভাগ\n
+         এলজিআরডি মন্ত্রণালয়, বাংলাদেশ সচিবালয়, ঢাকা </string>
+    <string name="sendicateno5title">সদস্য</string>
+
+
+
+    <string name="sendicateno6">০৬ । </string>
+    <string name="sendicateno6name">
+         অধ্যাপক ড. বিশ্বজিৎ ঘোষ\n
+         উপচার্য, রবীন্দ্র বিশ্ববিদ্যালয়\n
+         শাহজাদপুর, সিরাজগঞ্জ </string>
+    <string name="sendicateno6title">সদস্য</string>
+
+
+    <string name="sendicateno7">০৭ । </string>
+    <string name="sendicateno7name">
+         অধ্যাপক ড. মোঃ ইমদাদুল হক\n
+     ডিন, জীববিজ্ঞান অনুষদ \n ঢাকা বিশ্ববিদ্যালয়, ঢাকা</string>
+    <string name="sendicateno7title">সদস্য</string>
+
+
+
+    <string name="sendicateno8">০৮ । </string>
+    <string name="sendicateno8name">
+         বিভাগীয় কমিশনার\n
+     বরিশাল বিশ্ববিদ্যালয়, বরিশাল</string>
+    <string name="sendicateno8title">সদস্য</string>
+
+
+
+    <string name="sendicateno9">০৯ । </string>
+    <string name="sendicateno9name">
+         চেয়ারম্যান\n
+      মাধ্যমিক ও উচ্চ মাধ্যমিক শিক্ষা বোর্ড, বরিশাল</string>
+    <string name="sendicateno9title">সদস্য</string>
+
+
+
+    <string name="sendicaten10">১০ । </string>
+    <string name="sendicaten10name">
+        প্রফেসর ড. কাজী শহীদুল্লাহ \n
+        (প্রাক্তন ভাইস-চ্যান্সেলর, জাতীয় বিশ্ববিদ্যালয়)\n
+      ইতিহাস বিভাগ, ঢাকা বিশ্ববিদ্যালয়, ঢাকা</string>
+    <string name="sendicaten10title">সদস্য</string>
+
+
+
+    <string name="sendicaten11">১১ । </string>
+    <string name="sendicaten11name">
+         ড. নিলুফা ইসলাম\n
+       প্রাক্তন মহা-পরিচালক, ওয়ারপো, ঢাকা</string>
+    <string name="sendicaten11title">সদস্য</string>
+
+
+    <string name="sendicaten12">১২ । </string>
+    <string name="sendicaten12name">
+        ডিন\n
+       বরিশাল বিশ্ববিদ্যালয়, বরিশাল</string>
+    <string name="sendicaten12title">শুণ্য</string>
+
+
+    <string name="sendicaten13">১৩ । </string>
+    <string name="sendicaten13name">
+        জনাব রাহাত হোসাইন ফয়সাল\n
+        প্রভোস্ট, বঙ্গবন্ধু হল\n
+       বরিশাল বিশ্ববিদ্যালয়, বরিশাল</string>
+    <string name="sendicaten13title">সদস্য</string>
+
+
+
+    <string name="sendicaten14">১৪ । </string>
+    <string name="sendicaten14name">
+        অধ্যাপক ড. মোঃ মুহসিন উদ্দীন\n
+         ইংরেজি বিভাগ, বরিশাল বিশ্ববিদ্যালয়, বরিশাল</string>
+    <string name="sendicaten14title">সদস্য</string>
+
+
+
+    <string name="sendicaten15">১৫ । </string>
+    <string name="sendicaten15name">
+         ড. মোঃ হাসিনুর রহমান \n
+         সহযোগী অধ্যাপক, মৃত্তিকা ও পরিবেশ বিজ্ঞান বিভাগ \n
+          বরিশাল বিশ্ববিদ্যালয়, বরিশাল</string>
+    <string name="sendicaten15title">সদস্য</string>
+
+
+
+    <string name="sendicaten16">১৬ । </string>
+    <string name="sendicaten16name">
+         ড. হাফিজ আশরাফুল হক \n
+         সহযোগী অধ্যাপক, কোস্টাল স্ট্যাডিজ এন্ড ডিজাস্টার ম্যানেজমেন্ট বিভাগ \n
+         বরিশাল বিশ্ববিদ্যালয়, বরিশাল</string>
+    <string name="sendicaten16title">সদস্য</string>
+
+
+
+    <string name="sendicaten17">১৭ । </string>
+    <string name="sendicaten17name">
+         জনাব সাইয়েদা সাবরিনা আলী \n
+        প্রভাষক, মৃত্তিকা ও পরিবেশ বিজ্ঞান বিভাগ\n
+         বরিশাল বিশ্ববিদ্যালয়, বরিশাল</string>
+    <string name="sendicaten17title">সদস্য</string>
+
+    <string name="sendicaten18">***</string>
+    <string name="sendicaten18name">
+         মোঃ মনিরুল ইসলাম \n
+          রেজিস্টার\n
+         বরিশাল বিশ্ববিদ্যালয়, বরিশাল</string>
+    <string name="sendicaten18title">সচিব</string>
+
+
+
+
+
+
+
+
+
+</resources>
