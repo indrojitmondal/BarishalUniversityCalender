@@ -25,7 +25,7 @@ public class January extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_january);
         closeContextMenu();
-        textView = (TextView) findViewById(R.id.jan4);
+       // textView = (TextView) findViewById(R.id.jan4);
 
         builder = new AlertDialog.Builder(this);
 

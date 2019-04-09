@@ -403,20 +403,18 @@
     <string name="dectext">December 2018 / (অঘ্রায়ণ-পৌষ) ১৪২৫  </string>
     <string name="januarytext">January 2019 /(পৌষ-মাঘ) ১৪২৫ </string>
     <string name="febtext">February 2019 /(মাঘ-ফাল্গুন) ১৪২৫ </string>
-    <string name="marchtext">March 2019 /(ফাল্গুন-চৌত্র) ১৪২৫ </string>
-    <string name="apriltext">April 2019 /(চৌত্র-বৈশাখ) ১৪২৫-১৪২৬ </string>
+    <string name="marchtext">March 2019 /(ফাল্গুন-চৈত্র) ১৪২৫ </string>
+    <string name="apriltext">April 2019 /(চৈত্র-বৈশাখ) ১৪২৫-১৪২৬ </string>
     <string name="maytext">May 2019 /(বৈশাখ-জৈষ্ঠ্য) ১৪২৬ </string>
     <string name="juntext">June 2019 /(জৈষ্ঠ্য-আষাঢ়) ১৪২৬ </string>
     <string name="januarynext">Next</string>
     <string name="januarypre">Previous</string>
     <string name="suti"> ২০১৮-১৯ শিক্ষাবর্ষের ছুটির তালিকা</string>
-    <string name="sutilist">এক তারকাচিহ্ন যুক্ত(*)পর্বগুলো চন্দ্রদয় সাপেক্ষ পরিবর্ত্নীয় । \n
+    <string name="sutilist">এক তারকাচিহ্ন যুক্ত(*)পর্বগুলো চন্দ্রদয় সাপেক্ষ পরিবর্তনীয়  । \n
                        দুই তাকাচিহ্ন যুক্ত(**)পর্বগুলোর ছুটির তারিখ পরে জানানো হবে । \n</string>
     <string name="today">আজকের তারিখ দেখুন </string>
     <string name="ss"> লাল চিহ্নিত তারিখগুলো ক্লাস ও অফিস ছুটি । \n
                        নীল চিহিন্ত তারিখগুলো ক্লাস ছুটি । \n
-                       সবুজ চিহ্নিত তারিখগুলোতে বিশ্ববিদ্যাল্য় খোলা থাকবে |
-
     </string>
 
     <string name="home">Home</string>
@@ -562,8 +560,8 @@
 
     <string name="sendicaten18">***</string>
     <string name="sendicaten18name">
-         মোঃ মনিরুল ইসলাম \n
-          রেজিস্টার\n
+         ড. মোঃ হাসিনুর রহমান \n
+          রেজিস্টার(অতিরিক্ত দায়িত্ব) \n
          বরিশাল বিশ্ববিদ্যালয়, বরিশাল</string>
     <string name="sendicaten18title">সচিব</string>
 
