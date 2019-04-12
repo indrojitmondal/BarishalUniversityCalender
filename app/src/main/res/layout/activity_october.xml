@@ -34,7 +34,7 @@
                     android:layout_width="494dp"
                     android:layout_height="wrap_content"
                     android:scaleType="fitXY"
-                    android:src="@drawable/newbaner" />
+                    android:src="@drawable/baner" />
 
                 <TextView
                     android:layout_width="494dp"

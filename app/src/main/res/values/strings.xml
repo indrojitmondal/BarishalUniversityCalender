@@ -395,23 +395,25 @@
 
     <string name="dialog_title"></string>
     <string name="bubutton">www.bu.ac.bd</string>
-    <string name="julytext">July 2018 / (আষাঢ়-শ্রাবণ) ১৪২৫  </string>
-    <string name="augtext">August 2018 / (শ্রাবণ-ভাদ্র) ১৪২৫  </string>
-    <string name="septext">September 2018 / (ভাদ্র-আশ্বিন) ১৪২৫  </string>
-    <string name="octtext">October 2018 / (আশ্বিন-কার্তিক) ১৪২৫  </string>
-    <string name="novtext">November 2018 / (কার্তিক-অঘ্রায়ণ) ১৪২৫  </string>
-    <string name="dectext">December 2018 / (অঘ্রায়ণ-পৌষ) ১৪২৫  </string>
-    <string name="januarytext">January 2019 /(পৌষ-মাঘ) ১৪২৫ </string>
-    <string name="febtext">February 2019 /(মাঘ-ফাল্গুন) ১৪২৫ </string>
-    <string name="marchtext">March 2019 /(ফাল্গুন-চৈত্র) ১৪২৫ </string>
-    <string name="apriltext">April 2019 /(চৈত্র-বৈশাখ) ১৪২৫-১৪২৬ </string>
-    <string name="maytext">May 2019 /(বৈশাখ-জৈষ্ঠ্য) ১৪২৬ </string>
-    <string name="juntext">June 2019 /(জৈষ্ঠ্য-আষাঢ়) ১৪২৬ </string>
+    <string name="julytext">July-2018,(আষাঢ়-শ্রাবণ)-১৪২৫  </string>
+    <string name="augtext">August-2018,(শ্রাবণ-ভাদ্র)-১৪২৫  </string>
+    <string name="septext">September-2018,(ভাদ্র-আশ্বিন)-১৪২৫  </string>
+    <string name="octtext">October-2018,(আশ্বিন-কার্তিক)-১৪২৫  </string>
+    <string name="novtext">November-2018,(কার্তিক-অঘ্রায়ণ)-১৪২৫  </string>
+    <string name="dectext">December-2018,(অঘ্রায়ণ-পৌষ)-১৪২৫  </string>
+    <string name="januarytext">January-2019,(পৌষ-মাঘ)-১৪২৫ </string>
+    <string name="febtext">February-2019,(মাঘ-ফাল্গুন)-১৪২৫ </string>
+    <string name="marchtext">March-2019,(ফাল্গুন-চৈত্র)-১৪২৫ </string>
+    <string name="apriltext">April-2019,(চৈত্র-বৈশাখ)১৪২৫-১৪২৬ </string>
+    <string name="maytext">May-2019,(বৈশাখ-জৈষ্ঠ্য)-১৪২৬ </string>
+    <string name="juntext">June-2019,(জৈষ্ঠ্য-আষাঢ়)-১৪২৬ </string>
     <string name="januarynext">Next</string>
     <string name="januarypre">Previous</string>
     <string name="suti"> ২০১৮-১৯ শিক্ষাবর্ষের ছুটির তালিকা</string>
-    <string name="sutilist">এক তারকাচিহ্ন যুক্ত(*)পর্বগুলো চন্দ্রদয় সাপেক্ষ পরিবর্তনীয়  । \n
-                       দুই তাকাচিহ্ন যুক্ত(**)পর্বগুলোর ছুটির তারিখ পরে জানানো হবে । \n</string>
+    <string name="note">এক তারকাচিহ্ন যুক্ত(*)পর্বগুলো চন্দ্রদয় সাপেক্ষ পরিবর্তনীয়  । \n
+                       দুই তাকাচিহ্ন যুক্ত(**)পর্বগুলোর ছুটির তারিখ পরে জানানো হবে ।  \n
+                       সুতরাং(*)ও(**)তাকাচিহ্ন পর্বগুলোর ছুটির তারিখ জানতে ওই সময়ে www.bu.ac.bd  এ প্রবেশ করুন ।
+    </string>
     <string name="today">আজকের তারিখ দেখুন </string>
     <string name="ss"> লাল চিহ্নিত তারিখগুলো ক্লাস ও অফিস ছুটি । \n
                        নীল চিহিন্ত তারিখগুলো ক্লাস ছুটি । \n
@@ -564,6 +566,7 @@
           রেজিস্টার(অতিরিক্ত দায়িত্ব) \n
          বরিশাল বিশ্ববিদ্যালয়, বরিশাল</string>
     <string name="sendicaten18title">সচিব</string>
+    <string name="calendarsesion">২০১৮-১৯ খ্রিস্টাব্দ , ১৪২৫-১৪২৬ বঙ্গাব্দ </string>
 
 
 

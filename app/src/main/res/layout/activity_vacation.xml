@@ -9,7 +9,6 @@
     <ScrollView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-
         android:scrollbars="none">
 
         <LinearLayout
@@ -17,13 +16,20 @@
             android:layout_height="match_parent"
             android:orientation="vertical">
 
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:scaleType="fitXY"
+                android:src="@drawable/baner" />
+
             <TextView
-                android:layout_marginTop="20dp"
+
                 android:layout_width="match_parent"
                 android:layout_height="30dp"
                 android:textAlignment="center"
                 android:text="@string/suti"
-                android:background="#4CAF50"
+                android:background="@color/colorPink"
                 android:textStyle="bold"
                 />
 
@@ -41,12 +47,13 @@
                 android:layout_marginTop="15dp"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/sutilist"
-                android:textColor="#ffffff"
+                android:text="@string/note"
+
+                android:textColor="#000000"
                 android:textStyle="bold"
 
 
-                android:background="@color/colorPrimaryDark"
+                android:background="#00FF00"
                 />
         </LinearLayout>
 

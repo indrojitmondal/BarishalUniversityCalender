@@ -17,28 +17,39 @@
             android:layout_height="match_parent"
             android:orientation="vertical">
 
+
             <LinearLayout
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:orientation="vertical"
                 android:weightSum="3"
-                android:background="@color/colorPink"
+
+
                 >
+
                 <ImageView
-                android:layout_weight="1"
-                android:layout_width="wrap_content"
-                android:layout_height="0in"
-                android:src="@drawable/banercover"
-                />
+                    android:layout_weight="1"
+                    android:layout_width="match_parent"
+                    android:layout_height="0in"
+                    android:src="@drawable/baner"
+
+                    />
 
                 <ImageView
                     android:layout_weight="2"
-                    android:layout_width="wrap_content"
+                    android:layout_width="match_parent"
                     android:layout_height="0in"
                     android:src="@drawable/front"
+
                     />
 
+
+
             </LinearLayout>
+
+
+
+
 <!--
             <LinearLayout
                 android:layout_width="wrap_content"
@@ -67,6 +78,16 @@
                android:layout_gravity="center"
                android:onClick="sinidacte"
                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="@string/calendarsesion"
+                android:textStyle="italic"
+                android:background="@color/colorPink"
+
+                />
 
 
 
@@ -240,6 +261,14 @@
            android:text="@string/suti"
            android:layout_gravity="center"
            />
+            <Button
+                android:id="@+id/buwebside"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:text="www.bu.ac.bd"
+                android:textAllCaps="false"
+                android:layout_gravity="center"
+                />
 
             <!--
             <Button
