@@ -250,8 +250,7 @@
                             android:backgroundTint="@color/colorRed"
                             android:textColor="#000000"
                             android:text="@string/feb1"
-
-
+                            android:onClick="fri"
 
                             android:gravity="center"
 
@@ -271,6 +270,7 @@
                             android:textColor="#000000"
                             android:gravity="center"
                             android:text="@string/feb2"
+                            android:onClick="sat"
                             android:textAppearance="?android:attr/textAppearanceLarge"
 
 
@@ -360,6 +360,7 @@
                             android:textColor="#000000"
                             android:gravity="center"
                             android:text="@string/feb8"
+                            android:onClick="fri"
                             android:textAppearance="?android:attr/textAppearanceLarge"
 
 
@@ -375,6 +376,7 @@
                             android:textColor="#000000"
                             android:gravity="center"
                             android:text="@string/feb9"
+                            android:onClick="sat"
                             android:textAppearance="?android:attr/textAppearanceLarge"
 
 
@@ -468,6 +470,7 @@
                             android:textColor="#000000"
                             android:gravity="center"
                             android:text="@string/feb15"
+                            android:onClick="fri"
                             android:textAppearance="?android:attr/textAppearanceLarge"
 
 
@@ -483,7 +486,7 @@
                             android:textColor="#000000"
                             android:gravity="center"
                             android:text="@string/feb16"
-
+                            android:onClick="sat"
                             android:textAppearance="?android:attr/textAppearanceLarge"
 
 
@@ -593,6 +596,7 @@
                             android:textColor="#000000"
                             android:gravity="center"
                             android:text="@string/feb23"
+                            android:onClick="sat"
                             android:textAppearance="?android:attr/textAppearanceLarge"
 
 

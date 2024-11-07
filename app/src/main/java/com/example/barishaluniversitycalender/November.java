@@ -92,4 +92,63 @@ public class November extends AppCompatActivity {
 
         alertDialog.show();
     }
+
+    public void fri(View view) {
+
+
+        final AlertDialog.Builder alert = new AlertDialog.Builder(November.this);
+
+        View mview = getLayoutInflater().inflate(R.layout.custom_dialog,null);
+
+        final TextView dialog = (TextView) mview.findViewById(R.id.dialog_text);
+
+        alert.setView(mview);
+
+        final AlertDialog alertDialog = alert.create();
+
+        alertDialog.setCanceledOnTouchOutside(false);
+
+        ok = (Button) mview.findViewById(R.id.okbutton);
+
+        ok.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                alertDialog.dismiss();
+            }
+        });
+
+        dialog.setText("শুক্রবার, বিশ্ববিদ্যালয় ছুটি ।");
+
+        alertDialog.show();
+
+    }
+
+    public void sat(View view) {
+
+
+        final AlertDialog.Builder alert = new AlertDialog.Builder(November.this);
+
+        View mview = getLayoutInflater().inflate(R.layout.custom_dialog,null);
+
+        final TextView dialog = (TextView) mview.findViewById(R.id.dialog_text);
+
+        alert.setView(mview);
+
+        final AlertDialog alertDialog = alert.create();
+
+        alertDialog.setCanceledOnTouchOutside(false);
+
+        ok = (Button) mview.findViewById(R.id.okbutton);
+
+        ok.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                alertDialog.dismiss();
+            }
+        });
+
+        dialog.setText("শনিবার, বিশ্ববিদ্যালয় ছুটি ।");
+
+        alertDialog.show();
+    }
 }

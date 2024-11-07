@@ -251,9 +251,7 @@
                             android:backgroundTint="@color/colorRed"
                             android:textColor="#000000"
                             android:text="@string/march1"
-
-
-
+                            android:onClick="fri"
                             android:gravity="center"
 
                             android:textAppearance="?android:attr/textAppearanceLarge"
@@ -272,6 +270,7 @@
                             android:textColor="#000000"
                             android:gravity="center"
                             android:text="@string/march2"
+                            android:onClick="sat"
                             android:textAppearance="?android:attr/textAppearanceLarge"
 
 
@@ -361,6 +360,7 @@
                             android:textColor="#000000"
                             android:gravity="center"
                             android:text="@string/march8"
+                            android:onClick="fri"
                             android:textAppearance="?android:attr/textAppearanceLarge"
 
 
@@ -376,6 +376,7 @@
                             android:textColor="#000000"
                             android:gravity="center"
                             android:text="@string/march9"
+                            android:onClick="sat"
                             android:textAppearance="?android:attr/textAppearanceLarge"
 
 
@@ -469,6 +470,7 @@
                             android:textColor="#000000"
                             android:gravity="center"
                             android:text="@string/march15"
+                            android:onClick="fri"
                             android:textAppearance="?android:attr/textAppearanceLarge"
 
 
@@ -484,6 +486,7 @@
                             android:textColor="#000000"
                             android:gravity="center"
                             android:text="@string/march16"
+                            android:onClick="sat"
 
                             android:textAppearance="?android:attr/textAppearanceLarge"
 
@@ -579,6 +582,7 @@
                             android:textColor="#000000"
                             android:gravity="center"
                             android:text="@string/march22"
+                            android:onClick="fri"
 
 
                             android:textAppearance="?android:attr/textAppearanceLarge"
@@ -596,6 +600,7 @@
                             android:textColor="#000000"
                             android:gravity="center"
                             android:text="@string/march23"
+                            android:onClick="sat"
                             android:textAppearance="?android:attr/textAppearanceLarge"
 
 
@@ -686,6 +691,7 @@
                             android:backgroundTint="@color/colorRed"
 
                             android:text="@string/march29"
+                            android:onClick="fri"
                             android:gravity="center"
 
                             android:textAppearance="?android:attr/textAppearanceLarge"
@@ -700,7 +706,7 @@
                             android:backgroundTint="@color/colorRed"
                             android:text="@string/march30"
 
-
+                            android:onClick="sat"
                             android:gravity="center"
 
                             android:textAppearance="?android:attr/textAppearanceLarge"

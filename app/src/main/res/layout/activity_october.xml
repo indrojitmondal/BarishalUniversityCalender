@@ -249,7 +249,7 @@
                             android:backgroundTint="@color/colorRed"
                             android:textColor="#000000"
                             android:text="@string/oct5"
-
+                            android:onClick="fri"
                             android:gravity="center"
 
                             android:textAppearance="?android:attr/textAppearanceLarge"
@@ -268,6 +268,7 @@
                             android:textColor="#000000"
                             android:gravity="center"
                             android:text="@string/oct6"
+                            android:onClick="sat"
                             android:textAppearance="?android:attr/textAppearanceLarge"
 
 
@@ -357,6 +358,7 @@
                             android:textColor="#000000"
                             android:gravity="center"
                             android:text="@string/oct12"
+                            android:onClick="fri"
                             android:textAppearance="?android:attr/textAppearanceLarge"
 
 
@@ -372,6 +374,7 @@
                             android:textColor="#000000"
                             android:gravity="center"
                             android:text="@string/oct13"
+                            android:onClick="sat"
                             android:textAppearance="?android:attr/textAppearanceLarge"
 
 
@@ -407,6 +410,7 @@
                             android:textColor="#000000"
                             android:gravity="center"
                             android:text="@string/oct15"
+                            android:onClick="durgapujarsuti"
                             android:textAppearance="?android:attr/textAppearanceLarge"
 
 
@@ -421,6 +425,7 @@
                             android:textColor="#000000"
                             android:gravity="center"
                             android:text="@string/oct16"
+                            android:onClick="durgapujarsuti"
                             android:textAppearance="?android:attr/textAppearanceLarge"
 
                             />
@@ -436,6 +441,7 @@
                             android:textColor="#000000"
                             android:gravity="center"
                             android:text="@string/oct17"
+                            android:onClick="durgapujarsuti"
 
                             android:textAppearance="?android:attr/textAppearanceLarge"
 
@@ -451,6 +457,7 @@
                             android:textColor="#000000"
                             android:gravity="center"
                             android:text="@string/oct18"
+                            android:onClick="durgapujarsuti"
                             android:textAppearance="?android:attr/textAppearanceLarge"
 
 
@@ -465,6 +472,7 @@
                             android:textColor="#000000"
                             android:gravity="center"
                             android:text="@string/oct19"
+                            android:onClick="fri"
                             android:textAppearance="?android:attr/textAppearanceLarge"
 
 
@@ -480,6 +488,7 @@
                             android:textColor="#000000"
                             android:gravity="center"
                             android:text="@string/oct20"
+                            android:onClick="sat"
 
                             android:textAppearance="?android:attr/textAppearanceLarge"
 
@@ -571,6 +580,7 @@
                             android:textColor="#000000"
                             android:gravity="center"
                             android:text="@string/oct26"
+                            android:onClick="fri"
                             android:textAppearance="?android:attr/textAppearanceLarge"
 
 
@@ -586,6 +596,7 @@
                             android:textColor="#000000"
                             android:gravity="center"
                             android:text="@string/oct27"
+                            android:onClick="sat"
                             android:textAppearance="?android:attr/textAppearanceLarge"
 
 

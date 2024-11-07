@@ -171,6 +171,7 @@
                             android:textColor="#000000"
                             android:gravity="center"
                             android:text="@string/dec30"
+                            android:onClick="sitkalinsuti"
 
                             android:textAppearance="?android:attr/textAppearanceLarge"
                             />
@@ -188,6 +189,7 @@
                             android:textColor="#000000"
                             android:gravity="center"
                             android:text="@string/dec31"
+                            android:onClick="sitkalinsuti"
                             android:layout_marginLeft="10dp"
 
                             android:textAppearance="?android:attr/textAppearanceLarge"
@@ -267,6 +269,7 @@
                             android:textColor="#000000"
                             android:gravity="center"
                             android:text="@string/dec1"
+                            android:onClick="sat"
                             android:textAppearance="?android:attr/textAppearanceLarge"
 
 
@@ -356,6 +359,7 @@
                             android:textColor="#000000"
                             android:gravity="center"
                             android:text="@string/dec7"
+                            android:onClick="fri"
                             android:textAppearance="?android:attr/textAppearanceLarge"
 
 
@@ -371,6 +375,7 @@
                             android:textColor="#000000"
                             android:gravity="center"
                             android:text="@string/dec8"
+                            android:onClick="sat"
                             android:textAppearance="?android:attr/textAppearanceLarge"
 
 
@@ -464,6 +469,7 @@
                             android:textColor="#000000"
                             android:gravity="center"
                             android:text="@string/dec14"
+                            android:onClick="fri"
                             android:textAppearance="?android:attr/textAppearanceLarge"
 
 
@@ -479,7 +485,7 @@
                             android:textColor="#000000"
                             android:gravity="center"
                             android:text="@string/dec15"
-
+                            android:onClick="sat"
                             android:textAppearance="?android:attr/textAppearanceLarge"
 
 
@@ -558,6 +564,7 @@
                             android:textColor="#000000"
                             android:gravity="center"
                             android:text="@string/dec20"
+                            android:onClick="sitkalinsuti"
                             android:textAppearance="?android:attr/textAppearanceLarge"
 
 
@@ -572,6 +579,7 @@
                             android:textColor="#000000"
                             android:gravity="center"
                             android:text="@string/dec21"
+                            android:onClick="fri"
                             android:textAppearance="?android:attr/textAppearanceLarge"
 
 
@@ -587,6 +595,7 @@
                             android:textColor="#000000"
                             android:gravity="center"
                             android:text="@string/dec22"
+                            android:onClick="sat"
                             android:textAppearance="?android:attr/textAppearanceLarge"
 
 
@@ -607,6 +616,7 @@
                             android:textColor="#000000"
                             android:gravity="center"
                             android:text="@string/dec23"
+                            android:onClick="sitkalinsuti"
                             android:textAppearance="?android:attr/textAppearanceLarge" />
 
                         <TextView
@@ -618,6 +628,7 @@
                             android:textColor="#000000"
                             android:gravity="center"
                             android:text="@string/dec24"
+                            android:onClick="sitkalinsuti"
                             android:textAppearance="?android:attr/textAppearanceLarge"
 
 
@@ -632,6 +643,7 @@
                             android:textColor="#000000"
                             android:gravity="center"
                             android:text="@string/dec25"
+                            android:onClick="sitkalinsuti"
                             android:textAppearance="?android:attr/textAppearanceLarge"
 
                             />
@@ -646,6 +658,7 @@
                             android:textColor="#000000"
                             android:gravity="center"
                             android:text="@string/dec26"
+                            android:onClick="sitkalinsuti"
                             android:textAppearance="?android:attr/textAppearanceLarge"
 
 
@@ -659,10 +672,8 @@
                             android:backgroundTint="@color/colorRed"
                             android:textColor="#000000"
                             android:text="@string/dec27"
-
                             android:gravity="center"
-
-
+                            android:onClick="sitkalinsuti"
                             android:textAppearance="?android:attr/textAppearanceLarge"
 
                             />
@@ -675,9 +686,8 @@
                             android:backgroundTint="@color/colorRed"
                             android:textColor="#000000"
                             android:text="@string/dec28"
-
                             android:gravity="center"
-
+                            android:onClick="fri"
                             android:textAppearance="?android:attr/textAppearanceLarge"
 
                             />
@@ -689,9 +699,8 @@
                             android:background="#FFFFFF"
                             android:backgroundTint="@color/colorRed"
                             android:text="@string/dec29"
-
+                            android:onClick="sat"
                             android:gravity="center"
-
                             android:textAppearance="?android:attr/textAppearanceLarge"
 
                             />

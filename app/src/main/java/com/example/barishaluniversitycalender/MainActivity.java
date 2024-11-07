@@ -121,9 +121,6 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(intent);
                 closeContextMenu();
 
-
-
-
             }
         });
 
@@ -136,9 +133,6 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(intent);
                 closeContextMenu();
 
-
-
-
             }
         });
         imageButtonjuly =(ImageButton) findViewById(R.id.july);
@@ -150,8 +144,6 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(intent);
                 closeContextMenu();
 
-
-
             }
         });
         imageButtonaug =(ImageButton) findViewById(R.id.aug);
@@ -162,9 +154,6 @@ public class MainActivity extends AppCompatActivity {
                 Intent intent = new Intent(MainActivity.this,August.class);
                 startActivity(intent);
                 closeContextMenu();
-
-
-
 
             }
         });
@@ -305,35 +294,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
 
-    @Override
-    public void onBackPressed() {
-        AlertDialog.Builder builder = new AlertDialog.Builder(this);
-        builder.setMessage("Are you sure you want to exit BU Calender?")
-                .setCancelable(false)
-                .setPositiveButton("Yes", new DialogInterface.OnClickListener() {
-                    public void onClick(DialogInterface dialog, int id) {
-                        //finish();
-                        MainActivity.this.onSuperBackPressed();
-                        //super.onBackPressed();
-                    }
-                })
-                .setNegativeButton("No", new DialogInterface.OnClickListener() {
-                    public void onClick(DialogInterface dialog, int id) {
-                        dialog.cancel();
-                    }
-                });
-        AlertDialog alert = builder.create();
-        alert.show();
-    /*
-    if (handleCancel()){
-        super.onBackPressed();
-    }
-    */
-    }
 
-    public void onSuperBackPressed(){
-        super.onBackPressed();
-    }
 
     public void sinidacte(View view) {
 

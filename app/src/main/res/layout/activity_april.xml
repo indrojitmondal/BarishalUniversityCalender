@@ -7,7 +7,6 @@
     android:layout_margin="10dp"
     android:gravity="center"
     tools:context=".April">
-
     <ScrollView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
@@ -34,7 +33,6 @@
                     android:scaleType="fitXY"
                     android:src="@drawable/baner"
                     />
-
                 <TextView
                     android:layout_width="494dp"
                     android:layout_height="40dp"
@@ -56,10 +54,8 @@
                 >
 
                 <TableLayout
-
                     android:layout_width="494dp"
                     android:layout_height="wrap_content"
-
                     >
 
 
@@ -136,8 +132,9 @@
                             android:background="@color/colorRed"
                             android:backgroundTint="@color/colorRed"
 
-                            android:gravity="center"
                             android:text="Fri"
+                            android:gravity="center"
+
                             android:textAppearance="?android:attr/textAppearanceLarge"
                             android:textStyle="bold" />
 
@@ -238,6 +235,7 @@
                             android:textColor="#000000"
                             android:gravity="center"
                             android:text="@string/april5"
+                            android:onClick="fri"
                             android:textAppearance="?android:attr/textAppearanceLarge"
 
 
@@ -254,6 +252,7 @@
                             android:textColor="#000000"
                             android:gravity="center"
                             android:text="@string/april6"
+                            android:onClick="sat"
                             android:textAppearance="?android:attr/textAppearanceLarge"
 
 
@@ -340,6 +339,7 @@
                             android:backgroundTint="@color/colorRed"
                             android:gravity="center"
                             android:text="@string/april12"
+                            android:onClick="fri"
                             android:textAppearance="?android:attr/textAppearanceLarge"
 
 
@@ -354,6 +354,7 @@
                             android:backgroundTint="@color/colorRed"
                             android:gravity="center"
                             android:text="@string/april13"
+                            android:onClick="sat"
                             android:textAppearance="?android:attr/textAppearanceLarge"
 
 
@@ -441,6 +442,7 @@
                             android:backgroundTint="@color/colorRed"
                             android:gravity="center"
                             android:text="@string/april19"
+                            android:onClick="fri"
                             android:textAppearance="?android:attr/textAppearanceLarge"
 
 
@@ -455,6 +457,7 @@
                             android:backgroundTint="@color/colorRed"
                             android:gravity="center"
                             android:text="@string/april20"
+                            android:onClick="sat"
                             android:textAppearance="?android:attr/textAppearanceLarge"
 
 
@@ -469,7 +472,6 @@
                         <TextView
                             android:layout_width="62dp"
                             android:layout_height="40dp"
-
                             android:background="#FFFFFF"
                             android:backgroundTint="#FFFFFF"
                             android:textColor="#000000"
@@ -542,10 +544,9 @@
                             android:backgroundTint="@color/colorRed"
                             android:gravity="center"
                             android:text="@string/april26"
+                            android:onClick="fri"
                             android:textAppearance="?android:attr/textAppearanceLarge"
-
-
-                            />
+                   />
 
 
                         <TextView
@@ -556,6 +557,7 @@
                             android:backgroundTint="@color/colorRed"
                             android:gravity="center"
                             android:text="@string/april27"
+                            android:onClick="sat"
                             android:textAppearance="?android:attr/textAppearanceLarge"
 
 
@@ -566,11 +568,9 @@
 
                     <TableRow android:layout_marginTop="10dp">
 
-
                         <TextView
                             android:layout_width="62dp"
                             android:layout_height="40dp"
-
                             android:background="#FFFFFF"
                             android:backgroundTint="#FFFFFF"
                             android:textColor="#000000"

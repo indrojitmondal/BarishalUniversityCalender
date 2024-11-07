@@ -248,7 +248,7 @@
                             android:backgroundTint="@color/colorRed"
                             android:textColor="#000000"
                             android:text="@string/july6"
-
+                            android:onClick="fri"
                             android:gravity="center"
 
                             android:textAppearance="?android:attr/textAppearanceLarge"
@@ -267,6 +267,7 @@
                             android:textColor="#000000"
                             android:gravity="center"
                             android:text="@string/july7"
+                            android:onClick="sat"
                             android:textAppearance="?android:attr/textAppearanceLarge"
 
 
@@ -354,6 +355,7 @@
                             android:textColor="#000000"
                             android:gravity="center"
                             android:text="@string/july13"
+                            android:onClick="fri"
                             android:textAppearance="?android:attr/textAppearanceLarge"
 
 
@@ -369,6 +371,7 @@
                             android:textColor="#000000"
                             android:gravity="center"
                             android:text="@string/july14"
+                            android:onClick="sat"
                             android:textAppearance="?android:attr/textAppearanceLarge"
 
 
@@ -458,6 +461,7 @@
                             android:textColor="#000000"
                             android:gravity="center"
                             android:text="@string/july20"
+                            android:onClick="fri"
                             android:textAppearance="?android:attr/textAppearanceLarge"
 
 
@@ -473,6 +477,7 @@
                             android:textColor="#000000"
                             android:gravity="center"
                             android:text="@string/july21"
+                            android:onClick="sat"
                             android:textAppearance="?android:attr/textAppearanceLarge"
 
 
@@ -561,6 +566,7 @@
                             android:textColor="#000000"
                             android:gravity="center"
                             android:text="@string/july27"
+                            android:onClick="fri"
                             android:textAppearance="?android:attr/textAppearanceLarge"
 
 
@@ -576,6 +582,7 @@
                             android:textColor="#000000"
                             android:gravity="center"
                             android:text="@string/july28"
+                            android:onClick="sat"
                             android:textAppearance="?android:attr/textAppearanceLarge"
 
 

@@ -453,14 +453,12 @@
     <string name="sendicateno4title">সদস্য</string>
 
 
-
     <string name="sendicateno5">০৫ । </string>
     <string name="sendicateno5name">
          জনাব মোঃ আমিনুল ইসলাম খান\n
          অতিরিক্ত সচিব, স্থানীয় সরকার বিভাগ\n
          এলজিআরডি মন্ত্রণালয়, বাংলাদেশ সচিবালয়, ঢাকা </string>
     <string name="sendicateno5title">সদস্য</string>
-
 
 
     <string name="sendicateno6">০৬ । </string>
@@ -478,13 +476,11 @@
     <string name="sendicateno7title">সদস্য</string>
 
 
-
     <string name="sendicateno8">০৮ । </string>
     <string name="sendicateno8name">
          বিভাগীয় কমিশনার\n
      বরিশাল বিশ্ববিদ্যালয়, বরিশাল</string>
     <string name="sendicateno8title">সদস্য</string>
-
 
 
     <string name="sendicateno9">০৯ । </string>
@@ -494,14 +490,12 @@
     <string name="sendicateno9title">সদস্য</string>
 
 
-
     <string name="sendicaten10">১০ । </string>
     <string name="sendicaten10name">
         প্রফেসর ড. কাজী শহীদুল্লাহ \n
         (প্রাক্তন ভাইস-চ্যান্সেলর, জাতীয় বিশ্ববিদ্যালয়)\n
       ইতিহাস বিভাগ, ঢাকা বিশ্ববিদ্যালয়, ঢাকা</string>
     <string name="sendicaten10title">সদস্য</string>
-
 
 
     <string name="sendicaten11">১১ । </string>
@@ -526,13 +520,11 @@
     <string name="sendicaten13title">সদস্য</string>
 
 
-
     <string name="sendicaten14">১৪ । </string>
     <string name="sendicaten14name">
         অধ্যাপক ড. মোঃ মুহসিন উদ্দীন\n
          ইংরেজি বিভাগ, বরিশাল বিশ্ববিদ্যালয়, বরিশাল</string>
     <string name="sendicaten14title">সদস্য</string>
-
 
 
     <string name="sendicaten15">১৫ । </string>
@@ -543,14 +535,12 @@
     <string name="sendicaten15title">সদস্য</string>
 
 
-
     <string name="sendicaten16">১৬ । </string>
     <string name="sendicaten16name">
          ড. হাফিজ আশরাফুল হক \n
          সহযোগী অধ্যাপক, কোস্টাল স্ট্যাডিজ এন্ড ডিজাস্টার ম্যানেজমেন্ট বিভাগ \n
          বরিশাল বিশ্ববিদ্যালয়, বরিশাল</string>
     <string name="sendicaten16title">সদস্য</string>
-
 
 
     <string name="sendicaten17">১৭ । </string>
@@ -567,13 +557,8 @@
          বরিশাল বিশ্ববিদ্যালয়, বরিশাল</string>
     <string name="sendicaten18title">সচিব</string>
     <string name="calendarsesion">২০১৮-১৯ খ্রিস্টাব্দ , ১৪২৫-১৪২৬ বঙ্গাব্দ </string>
-
-
-
-
-
-
-
+    <string name="calendarsesion1">২০১৮-১৯ খ্রিস্টাব্দ , ১৪২৫-১৪২৬ বঙ্গাব্দ </string>
+    <string name="calendarsesion2">২০১৯-২০ খ্রিস্টাব্দ , ১৪২৬-১৪২৭ বঙ্গাব্দ </string>
 
 
 </resources>

@@ -32,7 +32,7 @@ public class WelcomeActivity extends AppCompatActivity {
 
     public void doWork()
     {
-        for(progress=20; progress<=60; progress=progress+20)
+        for(progress=20; progress<=80; progress=progress+5)
         {
             try {
                 Thread.sleep(1000);
@@ -46,7 +46,7 @@ public class WelcomeActivity extends AppCompatActivity {
 
     public  void startApp()
     {
-        Intent intent = new Intent(WelcomeActivity.this, MainActivity.class);
+        Intent intent = new Intent(WelcomeActivity.this,MenuBarActivity.class);
         startActivity(intent);
         finish();
     }

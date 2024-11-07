@@ -259,6 +259,7 @@
                             android:textColor="#000000"
                             android:gravity="center"
                             android:text="@string/sep1"
+                            android:onClick="sat"
                             android:textAppearance="?android:attr/textAppearanceLarge"
 
 
@@ -348,6 +349,7 @@
                             android:textColor="#000000"
                             android:gravity="center"
                             android:text="@string/sep7"
+                            android:onClick="fri"
                             android:textAppearance="?android:attr/textAppearanceLarge"
 
 
@@ -454,6 +456,7 @@
                             android:textColor="#000000"
                             android:gravity="center"
                             android:text="@string/sep14"
+                            android:onClick="fri"
                             android:textAppearance="?android:attr/textAppearanceLarge"
 
 
@@ -469,7 +472,7 @@
                             android:textColor="#000000"
                             android:gravity="center"
                             android:text="@string/sep15"
-
+                            android:onClick="sat"
                             android:textAppearance="?android:attr/textAppearanceLarge"
 
 
@@ -560,6 +563,7 @@
                             android:textColor="#000000"
                             android:gravity="center"
                             android:text="@string/sep21"
+                            android:onClick="fri"
                             android:textAppearance="?android:attr/textAppearanceLarge"
 
 
@@ -575,6 +579,7 @@
                             android:textColor="#000000"
                             android:gravity="center"
                             android:text="@string/sep22"
+                            android:onClick="sat"
                             android:textAppearance="?android:attr/textAppearanceLarge"
 
 
@@ -662,7 +667,7 @@
                             android:textColor="#000000"
                             android:text="@string/sep28"
                             android:gravity="center"
-
+                            android:onClick="fri"
                             android:textAppearance="?android:attr/textAppearanceLarge"
 
                             />
@@ -676,6 +681,7 @@
                             android:textColor="#000000"
                             android:gravity="center"
                             android:text="@string/sep29"
+                            android:onClick="sat"
                             android:textAppearance="?android:attr/textAppearanceLarge"
 
                             />

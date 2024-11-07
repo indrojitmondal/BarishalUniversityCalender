@@ -4,10 +4,9 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/coverpage"
+    android:background="@drawable/wel"
     android:gravity="bottom"
     tools:context=".WelcomeActivity">
-
     <ProgressBar
         android:id="@+id/progressbarid"
         android:backgroundTint="#FFE300"
